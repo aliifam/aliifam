@@ -1,1 +1,1 @@
-![image](https://www.codewars.com/users/aliif/badges/small)
+[![Codewars](https://www.codewars.com/users/aliif/badges/small)](https://www.codewars.com/users/aliif)
