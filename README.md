@@ -1,9 +1,8 @@
-# Aliif Arief
 <p>
   <samp>
-    <a href="https://aliif.space">Personal</a> .
-    <a href="https://twitter.com/aliifarm">twitter</a> .
-    <a href="https://instagram.com/aliif.am">instagram</a> 
+    <a href="https://aliif.space">MySite</a> .
+    <a href="https://twitter.com/aliifarm">Twitter</a> .
+    <a href="https://instagram.com/aliif.am">Instagram</a> 
   </samp>
 </p>
 
