@@ -1,4 +1,4 @@
-
+> Always remember 10.000 hours rule and first 20 hours rule.
 <!--START_SECTION:waka-->
 
 ```txt
