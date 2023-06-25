@@ -2,20 +2,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2022 - To: 22 June 2023
+From: 05 January 2022 - To: 23 June 2023
 
-Total Time: 99 hrs 7 mins
+Total Time: 104 hrs 17 mins
 
-TypeScript         27 hrs 39 mins  ███████░░░░░░░░░░░░░░░░░░   27.90 %
-Java               14 hrs 8 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Vue.js             12 hrs 28 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-JavaScript         8 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-TeX                5 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Markdown           5 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-JSON               4 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Go                 3 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-XML                3 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-PHP                2 hrs 53 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+TypeScript         29 hrs 45 mins  ███████░░░░░░░░░░░░░░░░░░   28.53 %
+Java               14 hrs 13 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Vue.js             12 hrs 28 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+JavaScript         9 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+JSON               5 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+TeX                5 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Markdown           5 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Go                 3 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+XML                3 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+PHP                2 hrs 53 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
