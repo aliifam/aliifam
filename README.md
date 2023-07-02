@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2022 - To: 30 June 2023
+From: 05 January 2022 - To: 01 July 2023
 
-Total Time: 113 hrs 38 mins
+Total Time: 113 hrs 39 mins
 
 TypeScript         36 hrs 47 mins  ████████░░░░░░░░░░░░░░░░░   32.37 %
 Java               14 hrs 13 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
 Vue.js             12 hrs 28 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-JavaScript         10 hrs 6 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-Markdown           5 hrs 57 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+JavaScript         10 hrs 6 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Markdown           5 hrs 58 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 JSON               5 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 TeX                5 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 Go                 3 hrs 43 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
