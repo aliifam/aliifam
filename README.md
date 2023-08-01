@@ -1,4 +1,4 @@
-> Always remember the 10.000 hours and the first 20 hours rules
+> Weekly coding activity
 <!--START_SECTION:waka-->
 
 ```txt
