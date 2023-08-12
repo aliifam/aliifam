@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2023 - To: 10 August 2023
+From: 04 August 2023 - To: 11 August 2023
 
-Total Time: 9 hrs 37 mins
+Total Time: 10 hrs 12 mins
 
-PHP              4 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   46.98 %
-Blade Template   2 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
-TypeScript       56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-Markdown         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-JavaScript       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+PHP              4 hrs 15 mins   ██████████▒░░░░░░░░░░░░░░   41.75 %
+Vue.js           3 hrs           ███████▒░░░░░░░░░░░░░░░░░   29.45 %
+TypeScript       1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Markdown         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+JSON             30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
 ```
 
 <!--END_SECTION:waka-->
