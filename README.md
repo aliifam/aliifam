@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-Total Time: 11 hrs 37 mins
+Total Time: 14 hrs 1 min
 
-PHP              8 hrs 49 mins   ███████████████████░░░░░░   75.89 %
-Markdown         1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-JavaScript       47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-HTML             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-JSON             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+PHP              11 hrs 51 mins  █████████████████████░░░░   84.54 %
+Markdown         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+JavaScript       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+HTML             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+JSON             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
