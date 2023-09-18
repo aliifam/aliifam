@@ -2,12 +2,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2023 - To: 16 September 2023
+From: 10 September 2023 - To: 17 September 2023
 
-Total Time: 10 mins
+Total Time: 9 mins
 
-PHP        8 mins          ████████████████████░░░░░   80.57 %
-Markdown   2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.43 %
+PHP        5 mins          ████████████████░░░░░░░░░   64.62 %
+Markdown   3 mins          █████████░░░░░░░░░░░░░░░░   35.38 %
 ```
 
 <!--END_SECTION:waka-->
