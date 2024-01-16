@@ -2,11 +2,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2024 - To: 14 January 2024
+From: 08 January 2024 - To: 15 January 2024
 
 Total Time: 37 mins
 
-Markdown   37 mins         █████████████████████████   100.00 %
+Markdown   37 mins         ████████████████████████▓   99.22 %
+PHP        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
