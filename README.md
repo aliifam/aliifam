@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2024 - To: 06 April 2024
+From: 31 March 2024 - To: 07 April 2024
 
-Total Time: 42 mins
+Total Time: 2 hrs 12 mins
 
-JavaScript   17 mins         ██████████▒░░░░░░░░░░░░░░   40.77 %
-TeX          15 mins         █████████▒░░░░░░░░░░░░░░░   36.84 %
-Markdown     4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-Other        4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Git          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+JavaScript   1 hr 23 mins    ████████████████░░░░░░░░░   63.35 %
+TeX          28 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
+Other        11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+Markdown     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Prisma       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
