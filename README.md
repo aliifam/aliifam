@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2024 - To: 21 April 2024
+From: 15 April 2024 - To: 22 April 2024
 
-Total Time: 5 hrs 35 mins
+Total Time: 6 hrs 21 mins
 
-Markdown     1 hr 36 mins    ███████░░░░░░░░░░░░░░░░░░   28.59 %
-TeX          1 hr 32 mins    ███████░░░░░░░░░░░░░░░░░░   27.61 %
-Ruby         1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-ERB          25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-CSS          16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Python       1 hr 51 mins    ███████▒░░░░░░░░░░░░░░░░░   29.36 %
+Markdown     1 hr 32 mins    ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+Ruby         1 hr 8 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
+ERB          25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+CSV          20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
 <!--END_SECTION:waka-->
