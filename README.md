@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2024 - To: 24 June 2024
+From: 18 June 2024 - To: 25 June 2024
 
-Total Time: 50 mins
+Total Time: 52 mins
 
-Markdown     29 mins         ██████████████▓░░░░░░░░░░   58.07 %
-TypeScript   12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
-HTML         6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-Python       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Markdown     29 mins         ██████████████░░░░░░░░░░░   55.76 %
+TypeScript   12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.48 %
+HTML         6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+Python       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
