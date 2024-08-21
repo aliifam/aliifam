@@ -2,12 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2024 - To: 19 August 2024
+From: 13 August 2024 - To: 20 August 2024
 
-Total Time: 4 mins
+Total Time: 2 hrs 2 mins
 
-Kotlin       4 mins          █████████████████████████   99.95 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   39 mins         ████████░░░░░░░░░░░░░░░░░   31.83 %
+Prisma       33 mins         ███████░░░░░░░░░░░░░░░░░░   27.59 %
+JSON         18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+YAML         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+Markdown     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka-->
