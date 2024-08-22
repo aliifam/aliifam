@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2024 - To: 20 August 2024
+From: 14 August 2024 - To: 21 August 2024
 
-Total Time: 2 hrs 2 mins
+Total Time: 6 hrs 20 mins
 
-JavaScript   39 mins         ████████░░░░░░░░░░░░░░░░░   31.83 %
-Prisma       33 mins         ███████░░░░░░░░░░░░░░░░░░   27.59 %
-JSON         18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
-YAML         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-Markdown     6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+JavaScript   3 hrs 36 mins   ██████████████▒░░░░░░░░░░   56.75 %
+Prisma       41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+Bash         37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+JSON         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+YAML         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
 ```
 
 <!--END_SECTION:waka-->
