@@ -2,15 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2024 - To: 27 August 2024
+From: 21 August 2024 - To: 28 August 2024
 
-Total Time: 5 hrs 4 mins
+Total Time: 41 mins
 
-JavaScript   2 hrs 57 mins   ██████████████▓░░░░░░░░░░   58.21 %
-Bash         34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-Markdown     29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-TeX          16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Docker       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Markdown   24 mins         ██████████████▓░░░░░░░░░░   58.86 %
+TeX        16 mins         ██████████░░░░░░░░░░░░░░░   39.71 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 <!--END_SECTION:waka-->
