@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-Total Time: 28 hrs 54 mins
+Total Time: 29 hrs 28 mins
 
-TypeScript         7 hrs 39 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
-Python             6 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
-TeX                5 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
-Vue.js             2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Prisma             1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Python             8 hrs           ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
+TypeScript         6 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.04 %
+TeX                4 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+Vue.js             3 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Prisma             1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 ```
 
 <!--END_SECTION:waka-->
