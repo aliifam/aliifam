@@ -1,4 +1,3 @@
-> Weekly coding activity
 <!--START_SECTION:waka-->
 
 ```txt
