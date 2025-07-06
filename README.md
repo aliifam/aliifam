@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2025 - To: 04 July 2025
+From: 28 June 2025 - To: 05 July 2025
 
-Total Time: 28 hrs 6 mins
+Total Time: 25 hrs 12 mins
 
-Vue.js       12 hrs 20 mins  ███████████░░░░░░░░░░░░░░   43.92 %
-Python       5 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   20.35 %
-TeX          4 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-JavaScript   2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-PlantUML     54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Vue.js       12 hrs 20 mins  ████████████▒░░░░░░░░░░░░   48.98 %
+Python       5 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
+JavaScript   2 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+TeX          1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Markdown     55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
 ```
 
 <!--END_SECTION:waka-->
