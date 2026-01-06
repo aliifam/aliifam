@@ -1,14 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Total Time: 2 hrs 25 mins
+Total Time: 3 hrs 38 mins
 
-TypeScript   2 hrs 14 mins   ███████████████████████░░   92.18 %
-YAML         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript   3 hrs 27 mins   ███████████████████████▓░   94.94 %
+YAML         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 ```
 
 <!--END_SECTION:waka-->
