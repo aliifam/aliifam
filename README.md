@@ -1,12 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-Total Time: 8 hrs 12 mins
+Total Time: 11 hrs 11 mins
 
-TypeScript   8 hrs 12 mins   █████████████████████████   100.00 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   10 hrs 35 mins  ███████████████████████▓░   94.60 %
+Markdown     35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
